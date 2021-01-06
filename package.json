@@ -18,7 +18,7 @@
   "author": "George Karakos",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "slackbots": "^1.2.0"
   }
